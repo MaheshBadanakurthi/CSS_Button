@@ -1,0 +1,26 @@
+.button1{
+    background-color: green;
+    color:white;
+    text-align: center;
+    font-weight: 500;
+    border:2px  solid;
+    border-radius: 200px;
+    margin-left:500px;
+}
+.button2{
+    background-color: rgb(236, 215, 19);
+    color:white;
+    text-align: center;
+    margin:100px;
+    padding:10px;
+    border:2px  dashed;
+}
+.button3{
+    background-color: green;
+    color:white;
+    text-align: center;
+    font-weight: 500;
+    border:2px  dotted;
+    
+    
+}
